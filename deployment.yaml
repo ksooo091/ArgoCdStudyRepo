@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: ghcr.io/ksooo091/mvn-test:1
+        image: ghcr.io/ksooo091/mvn-test:16
         ports:
         - containerPort: 8080
